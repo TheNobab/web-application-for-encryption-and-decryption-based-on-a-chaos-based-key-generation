@@ -4,7 +4,6 @@
 <!-- In today's digital landscape, securing sensitive information during transmission is paramount. Encryption stands as a fundamental technique ensuring data confidentiality. -->
 <p align="center">A chaos-based encryption and decryption web application</p>
 
-
 ## Features
 
 - **Encryption:** Encrypt plain text with a selected key.
@@ -23,4 +22,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/TheNobab/web-application-for-encryption-and-decryption-based-on-a-chaos-based-key-generation.git
