@@ -4,6 +4,11 @@
 <!-- In today's digital landscape, securing sensitive information during transmission is paramount. Encryption stands as a fundamental technique ensuring data confidentiality. -->
 <p align="center">A chaos-based encryption and decryption web application</p>
 
+<!-- Web Interface -->
+<p align="center">
+  <img src="image.png" alt="Drop- Encryption and Decryption" width="600">
+</p>
+
 ## Features
 
 - **Encryption:** Encrypt plain text with a selected key.
